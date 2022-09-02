@@ -1,1 +1,1 @@
-# Segmentaci-n-de-clientes-Algotritmo-K-mean-clusterings
+# Segmentacion-de-clientes-Algotritmo-K-mean-clusterings
